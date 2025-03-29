@@ -43,7 +43,7 @@ Using curated subsets of public datasets, this project covers:
 ### Regional & Industry Trends
 - Most common passwords by country
 - Most common passwords in certain industries
-- Comparison of crack time by region
+- Comparison of crack time accross different types of passwords
 ## Limitations
 - This is an exploratory project using sample-sized datasets   
 - Results are indicative, not exhaustive
