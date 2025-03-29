@@ -26,10 +26,10 @@ Using curated subsets of public datasets, this project covers:
 - **Top Country Passwords**: Top 200 most common passwords by country in 2021 (~9,800 total records)  
 - **Industry Passwords**: Top 20 weak passwords in various industries (~20 total records)
 ## Tools
--**Python**: For data curation, preprocessing, and exploratory analysis  
+- **Python**: For data curation, preprocessing, and exploratory analysis  
 - **Tableau**: For creating dashboards and visualizations  
 ## Key Insights
--### Password Strength
+### Password Strength
 - Entropy 
 - Brute-force time to crack (in seconds)
 ### Patterns Analysis
