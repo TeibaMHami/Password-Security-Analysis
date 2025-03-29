@@ -23,9 +23,10 @@ Using curated subsets of public datasets, this project covers:
 - Most common passwords across countries and industries
 ## Datasets
 - **RockYou Sample**: 1 million passwords randomly selected for analysis  
-- **Top Country Passwords**: Top 200 most common passwords by country in 2021 (~9,800 total records)  
+- **Top Country Passwords**: Top 200 most common passwords by country in 2021 (~10,000 total records)  
 - **Industry Passwords**: Top 20 weak passwords in various industries (~20 total records)
 ## Tools
+- **Excel**: Primarily used for storing and extracting datasets, and performing summary statistical operations
 - **Python**: For data curation, preprocessing, and exploratory analysis  
 - **Tableau**: For creating dashboards and visualizations  
 ## Key Insights
@@ -34,7 +35,7 @@ Using curated subsets of public datasets, this project covers:
 - Brute-force time to crack (in seconds)
 ### Patterns Analysis
 - Use of uppercase, lowercase, digits, and symbols
-- Leetspeak detection (`@` → `a`, `0` → `o`, etc.)
+- Leetspeak detection (`@` → `a`, `0` → `o`, ..etc)
 - Common structural patterns in password creation ( e.g., names, dictionary words, years, keyboard sequences, and predictable suffixes like 123 or qwerty)
 -  Identifying reused or repeated passwords
 ### Length Analysis
